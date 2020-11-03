@@ -25,7 +25,8 @@ import java.util.Scanner;
  */
 public class B1016 {
     public static void main(String[] args) {
-
+        B1016Solution a=new B1016Solution();
+        a.dSolution();
     }
 }
 
